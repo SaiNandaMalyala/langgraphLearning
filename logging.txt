@@ -1,0 +1,15 @@
+Your Conversation Log:
+You: Hi
+AI: Hi there! How can I help you today?
+
+You: my name is Nanda
+AI: It's nice to meet you, Nanda! How can I help you today?
+
+You: count letters in my name
+AI: Okay, Nanda, let's count them!
+
+N-a-n-d-a
+
+There are **5** letters in your name.
+
+End of Conversation
